@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="store_name_array">
+            <item>Costco</item>
+            <item>Safeway</item>
+            <item>Mountain View</item>
+        </string-array>
+</resources>
